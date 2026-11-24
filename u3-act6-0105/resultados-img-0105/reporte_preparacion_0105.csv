@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+bateria,bateria 1.jpg,OK,1056,901,224,224,0.0,1.0,APROBADA
+bateria,bateria 2.jpg,OK,500,500,224,224,0.008,1.0,APROBADA
+bateria,bateria 3.jpg,OK,1200,630,224,224,0.0,1.0,APROBADA
+bateria,bateria 4.jpg,OK,516,387,224,224,0.004,1.0,APROBADA
+bateria,bateria 5.jpg,OK,1000,1000,224,224,0.0,1.0,APROBADA
+tambor,tambor 1.jpg,OK,1601,1601,224,224,0.059,1.0,APROBADA
+tambor,tambor 2.jpg,OK,1280,1280,224,224,0.027,1.0,APROBADA
+tambor,tambor 3.jpg,ERROR,-,-,-,-,-,-,REVISAR
+tambor,tambor 4.jpg,OK,1000,932,224,224,0.0,1.0,APROBADA
+tambor,tambor 5.jpg,OK,365,547,224,224,0.004,1.0,APROBADA
