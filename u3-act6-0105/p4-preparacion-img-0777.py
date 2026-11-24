@@ -1,4 +1,4 @@
-
+print("Iker Montoya NC 0105")
 import cv2
 import numpy as np
 import os
@@ -171,3 +171,4 @@ print(f"Imágenes a revisar: {imagenes_procesadas - imagenes_aprobadas}")
 
 print(f"\nReporte guardado en: {ruta_reporte}")
 print("PRÁCTICA TERMINADA")
+print("Iker Montoya  NC 0105")
